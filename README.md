@@ -1,7 +1,7 @@
 # AgriHydro_GWLF
   Here we provide AgriHydro_GWLF sub model as a stand alone GWLF model for user's convience.
 User can either run GWLF.py directly from Python or download the EXE version from the link provided in GWLF_EXE.txt.
-Inside the folder we also provide sample input files "Shihmen2008_2017_SampleWthData.csv" & "ShihmenGWLFPar.csv", which represent Weather input data and parameter input data respectively.
+Inside the folder we also provide sample input files "Shihmen2008_2017_SampleWthData.csv" & "ShihmenGWLFPar.csv", which represent weather input data and parameter input data respectively.
 Following the format of sample input files, user can run the GWLF model of their study area.
 
 # Demo 
